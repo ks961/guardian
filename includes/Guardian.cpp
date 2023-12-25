@@ -1,7 +1,6 @@
 #include "Guardian.hpp"
 #include <string>
 
-
 template <typename T>
 SK::Matcher<T>::Matcher() {}
 
