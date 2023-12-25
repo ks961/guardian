@@ -1,0 +1,14 @@
+# Ignore Build Directory
+build/*
+
+# local vscode config
+.vscode
+
+# Source directory
+src/*
+
+# CMakeLists
+CMakeLists.txt
+
+# Build Script
+build.sh
