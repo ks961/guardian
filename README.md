@@ -15,6 +15,8 @@
 
 ## Usage
 **All Classes, Functions Variables are declared under 'SK' namespace.**
+
+**Example 1**
 ```cpp
 #include <vector>
 #include <Guardian.hpp>
@@ -49,10 +51,10 @@ int main()
     return 0;
 }
 ```
-Now compile and run.
 
+**Example 2**
 ```cpp
-#include <vector>
+#include <unordered_map>
 #include <Guardian.hpp>
 
 int main()
