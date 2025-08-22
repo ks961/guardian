@@ -262,7 +262,7 @@ void SK::Guardian::log(std::string log)
 
 bool SK::Guardian::test_success()
 {
-    return this-success;
+    return this->success;
 }
 
 SK::Guardian::~Guardian() {};
